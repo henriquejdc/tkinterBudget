@@ -80,7 +80,7 @@ app_.place(x=0, y=0)
 
 # NECESSIDADES
 necessidades_total = Label(frameBaixo, text='Necessidades', relief=FLAT,
-                     width=35, anchor=NW, font='Verdana 10', bg=co9, fg=co0)
+                           width=35, anchor=NW, font='Verdana 10', bg=co9, fg=co0)
 necessidades_total.place(x=10, y=40)
 
 necessidades = Label(frameBaixo, relief=FLAT, width=22, anchor=NW, font='Verdana 12', bg=co1, fg=co4)
